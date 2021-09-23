@@ -1,0 +1,34 @@
+body {
+    margin: 100px;
+   
+}
+.colorful {
+    border: paleturquoise solid 4px;
+    padding: 10px;
+}
+button, #button{
+    background: transparent;
+    border: teal 2px solid;
+    color: teal;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.forName {
+
+    color: navy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 15px;
+}
+p {
+    color: navy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+li{
+    color: navy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
